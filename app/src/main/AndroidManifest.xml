@@ -13,6 +13,9 @@
             android:name=".MainActivityBrMain2"
             android:exported="false" />
         <activity
+            android:name=".Activity1Branch2"
+            android:exported="false" />
+        <activity
             android:name=".MainActivityBrMain1"
             android:exported="false" />
         <activity
