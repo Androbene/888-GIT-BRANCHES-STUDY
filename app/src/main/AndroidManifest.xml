@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.888_GIT_BRANCHES_STUDY">
         <activity
+            android:name=".Activity1Branch2"
+            android:exported="false" />
+        <activity
             android:name=".MainActivityBrMain1"
             android:exported="false" />
         <activity
