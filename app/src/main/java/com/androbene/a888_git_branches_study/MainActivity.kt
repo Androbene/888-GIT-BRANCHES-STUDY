@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
 
         val r = 6
+        val t = 8
     }
 }
