@@ -7,10 +7,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val w = 0
 
-
-        val r = 6
-        val t = 8
+        val rrr = 9990
     }
 }
