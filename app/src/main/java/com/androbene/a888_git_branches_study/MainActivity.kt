@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
         val m2 = 2
 
     }
+
+    companion object{
+        const val m33 = 33
+    }
 }
